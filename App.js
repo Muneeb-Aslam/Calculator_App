@@ -1,5 +1,3 @@
-import {infixToPostfix,calculate} from './infixEvaluation.js';
-
 let button = document.querySelectorAll(".items");
 let input = document.getElementById("input");
 let clear = document.getElementById("clear");
