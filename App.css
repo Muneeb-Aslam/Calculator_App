@@ -50,9 +50,9 @@
 .items{
     color: black;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.75rem;
     cursor: pointer;
-    background-color: lightgray;
+    background-color: darkgray;
     text-align: center;
     border: none;
     border-radius: 20px;
