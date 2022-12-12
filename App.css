@@ -48,6 +48,7 @@
     gap: 8%;
 }
 .items{
+    user-select: none;
     color: black;
     font-weight: bold;
     font-size: 1.75rem;
